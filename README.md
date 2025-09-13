@@ -9,6 +9,7 @@ Este repositório contém mini documentações e resumos de conceitos, bibliotec
 - [Estrutura de Dados](Conceitos-Gerais/estrutura-de-dados-mini-doc/README.md)
 - [Three.js](Conceitos-Gerais/threejs-mini-doc/README.md)
 - [TypeScript](Conceitos-Gerais/typescript-mini-doc/README.md)
+- [Compiladores](./Conceitos-Gerais/compiladores.md)
 
 ### JavaScript
 
